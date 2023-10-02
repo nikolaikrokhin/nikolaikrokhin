@@ -22,6 +22,7 @@
 ### Projects recently uploaded 🌟
 - [Methods for Data Science Projects](https://github.com/nikolaikrokhin/MATH60026-Methods-for-Data-Science) 👀 📚
 - [Mathematical Foundations of Machine Learning Projects](https://github.com/nikolaikrokhin/MATH70134-Mathematical-Foundations-of-Machine-Learning) 🖼️
+- [Numerical Methods in Finance](https://github.com/nikolaikrokhin/Numerical-Methods-in-Finance) 📈
 
 <br/>
 

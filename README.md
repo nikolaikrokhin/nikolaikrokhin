@@ -13,7 +13,7 @@
 
 <img align="right" alt="GIF" height="270px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I am a MSci Mathematics graduate from Imperial College London 2019-23 and currently a Technology Graduate at London Stock Exchange Group
+## I am a MSci Mathematics graduate from Imperial College London 2019-23 and currently working at London Stock Exchange Group
 
 - 🎓 I have just graduated from Imperial College London with a first class MSci degree in Mathematics. 🥳
 - ⚡ I am mostly interested in Machine Learning, Applied Probability and Statistical Modelling. 
